@@ -15,7 +15,7 @@ Here, Netflix(584) have least number of show while Amazon prime making highest n
 - Step 5 : Button used to navigate the page from one Dashboard to another using "cltr + click" 
 - Step 6 : In the report view, under the view tab, theme was selected. 
 
-##Netflix
+## Netflix
 
 - Step 7 : Visual filters (Slicers) were added for two fields named "Genre" and "List of shows"
 - Step 8 : Four card visuals were added to the canvas, it represents total shows, runtime, IMDB score and English language. 
@@ -29,7 +29,7 @@ Here, Netflix(584) have least number of show while Amazon prime making highest n
 - Step 12: Using New measures, three measures were created which used in report named as "Total Language", "English" and "%English".
 
 
-##Amazon Prime
+## Amazon Prime
 
 - Step 13: Visual filters (Slicers) were added for six fields named "Genre", "List of shows", "About Shows", "List of Director", "Duration" and "View Rating" 
 - Step 14: Four card visuals were added to the canvas, first one representing total shows, second and third representing for Movies and series and fourth representing the country.
@@ -38,7 +38,7 @@ Here, Netflix(584) have least number of show while Amazon prime making highest n
 - Step 17: Using New measures, five measures were created which used in report named as "Total(type)", "TV Show","%TV Show", "Movies" and "%Movies"
 
 
-##Disney Hotstar
+## Disney Hotstar
 
 - Step 18: Visual filters (Slicers) were added for six fields named "Genre", "List of shows", "About Shows", "List of Director"and "Duration". 
 - Step 19: Four card visuals were added to the canvas, first one representing total shows, second and third representing for Movies and series and fourth representing the country.
