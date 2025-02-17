@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard contains three files which helps the OTT understand their customers better. It helps the OTT know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, & thus they can improve their services by identifying these area. It also lets them to compare the OTT.
+This dashboard contains files which helps the OTT to understand their customers better. It helps the OTT know if their customers are satisfied with their services. Through different ratings, they get to know their improvement area, and thus they can improve their services by identifying these area. It also lets them to compare the OTT of different platform.
 
 Here, Netflix(584) have least number of show while Amazon prime making highest number of movies (7814) and series(1854)
 
