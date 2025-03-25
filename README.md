@@ -31,7 +31,7 @@ Here, Netflix(584) have least number of show while Amazon prime making highest n
 
 ## Amazon Prime
 
-- Step 13: Visual filters (Slicers) were added for six fields named "Genre", "List of shows", "About Shows", "List of Director", "Duration" and "View Rating" 
+- Step 13: Slicers were added for six fields named "Genre", "List of shows", "About Shows", "List of Director", "Duration" and "View Rating" 
 - Step 14: Four card visuals were added to the canvas, first one representing total shows, second and third representing for Movies and series and fourth representing the country.
 - Step 15: Pie chart was also added to the report design area representing the rating of the shows.
 - Step 16: In the report view, under the insert tab, one text box was added to the canvas, mentioning the OTT name.
